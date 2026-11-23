@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "sklepy-odziezowe-powiaty"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "264ace09-52c3-45bb-881a-faff6527dd9a"
+  }
+}
